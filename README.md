@@ -94,8 +94,8 @@ This is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spaced.
 <!-- To add new line -->
 <!-- // Creates 2 Lines that **can** be selected as text -->
 Extra
-&nbsp;
-&nbsp;
+&nbsp; 
+&nbsp; 
 new
 <!-- // Creates 2 Lines that **cannot** be selected as text -->
 &NewLine;
