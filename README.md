@@ -93,8 +93,7 @@ This is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spaced.
 
 <!-- To add new line -->
 Extra
-&NewLine;
-&NewLine;
+</br>
 newLines
 </br>
 </br>
