@@ -92,16 +92,10 @@ Rishabh Saxena  [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2
 This is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spaced.
 
 <!-- To add new line -->
-<!-- // Creates 2 Lines that **can** be selected as text -->
 Extra
-&nbsp; 
-&nbsp; 
-new
-<!-- // Creates 2 Lines that **cannot** be selected as text -->
 &NewLine;
 &NewLine;
-lines
-<!-- or -->
+newLines
 </br>
 </br>
 present.
