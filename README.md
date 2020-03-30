@@ -87,3 +87,21 @@ ___
 
 <!-- Add Image Link and set height and width -->
 Rishabh Saxena  [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="18" width="18"/>](https://www.linkedin.com/in/rishabh-saxena-972099147 "Rishabh's LinkedIn profile")   
+
+<!-- To add white spaces -->
+This is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spaced.
+
+<!-- To add new line -->
+<!-- // Creates 2 Lines that **can** be selected as text -->
+Extra
+&nbsp;
+&nbsp;
+new
+<!-- // Creates 2 Lines that **cannot** be selected as text -->
+&NewLine;
+&NewLine;
+lines
+<!-- or -->
+</br>
+</br>
+present.
